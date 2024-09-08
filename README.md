@@ -235,7 +235,7 @@ VLAN Name                             Status    Ports
 ```
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b55fc6a5-2e2b-4f93-8a1e-1cb83cea2684" height="70%" width="70%" alt=""/>
+  <img src="https://github.com/user-attachments/assets/b55fc6a5-2e2b-4f93-8a1e-1cb83cea2684" height="100%" width="100%" alt=""/>
 </p>
 
 
